@@ -20,5 +20,5 @@ Click-select the leter, use mouse to draw dots. Each mouse click inverses the do
 Bugs
 ----
 
-Wrong character displayed in editor winow on load. `just select any other. Will fix soon.
+Wrong character displayed in editor winow on load. Just select any other. Will fix soon.
 
