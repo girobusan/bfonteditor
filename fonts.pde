@@ -71,6 +71,9 @@ void keyPressed() {
   if (keyCode==37) {
     lsel.prevPage();
   }
+  if(keyCode == 81) {
+  exit();
+  }
 
 
   disp.type(key, keyCode);
