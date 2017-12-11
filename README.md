@@ -3,6 +3,9 @@ Bitmap font editor
 
 Basic 8x8 fixed or variable width font editor. There is plenty of room for improvements still.
 
+![](screenshot.png?raw=true)
+
+
 Usage
 -----
 
